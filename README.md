@@ -4,3 +4,5 @@ Das ist ein *Beispiel* für den Kurs "Computerbenutzung und Programmieren". Hall
 Ich hab keine Inspiration mehr.
 
 Ich schreiben eine Zeile dazu.
+
+Noch eine neue Zeile
